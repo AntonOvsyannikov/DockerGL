@@ -1,6 +1,5 @@
 '''
-Offscreen rendering using GLUT hidden window
-Standalone code - not using LibGL from this repository
+Offscreen rendering using OSMesa context for headless containerized environment
 '''
 
 from OpenGL.GL import *
