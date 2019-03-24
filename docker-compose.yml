@@ -1,0 +1,11 @@
+osmesa:
+
+    build: .
+    stdin_open: true
+    tty: true    
+    volumes:
+        - .:/home/
+    working_dir: /home
+    command: python render.py
+
+
