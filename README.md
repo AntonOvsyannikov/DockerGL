@@ -1,4 +1,4 @@
-#PyOpenGL OSMesa Docker container
+# PyOpenGL OSMesa Docker container
 
 Docker containerized environment for Off-Screen headless 
 software OpenGL rendering with OSMESA and PyOpenGL.
