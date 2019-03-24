@@ -1,2 +1,2 @@
-pyopengl
-pillow
+pyopengl==3.1.0
+pillow==5.4.1
